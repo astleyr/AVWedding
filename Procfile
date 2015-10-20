@@ -1,0 +1,1 @@
+web: bundle exec ruby wedding.rb -p $PORT
