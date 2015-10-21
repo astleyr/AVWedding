@@ -1,0 +1,15 @@
+= AVWedding
+
+== About
+
+Welcome to my mini app for our wedding in December 2015 that I created. 
+
+I created this app more for an exposure for me to learn about front end design and aslo try out sinatra with erb templates.
+
+== Getting Started
+
+1. run bundle
+
+2. gem install rerun
+
+3. rerun 'ruby wedding.rb'
